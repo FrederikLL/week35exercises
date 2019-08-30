@@ -1,0 +1,9 @@
+Link til min server:
+
+https://fredll.dk/
+
+Serveren kan kun forbindes til gennem https som sikrer en sikker forbindelse.
+
+Man bliver nægtet adgang hvis man forsøger at gå gennem port 8080.
+
+SSl server test giver A-rating: https://www.ssllabs.com/ssltest/analyze.html?d=fredll.dk
